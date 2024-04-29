@@ -3,7 +3,8 @@
 The purpose of this project is to develop a predictive model that can identify customers who are likely to churn, i.e., those who are at risk of leaving the bank. By identifying these customers early on, the bank can take proactive measures to retain them, thereby reducing customer attrition and maintaining a healthy customer base.
 
 ## Data Sources:
-The project utilizes historical data collected from the bank's customer database. The dataset includes various features such as customer demographics, account information, transaction history, and any other relevant variables that may influence customer churn.
+The project utilizes historical data collected from Kaggle. The dataset includes various features such as customer demographics, account information, transaction history, and any other relevant variables that may influence customer churn.
+(link)[https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction]
 
 ## Methodologies:
 Data Preprocessing: The dataset undergoes preprocessing steps to handle missing values, encode categorical variables, and scale numerical features.
